@@ -59,4 +59,4 @@ State file:
 
 - Create security group
   - allow port 22 from your IP address
-  - attach it to EC2 instance in the step above
+  - attach it to EC2 instance in the step above# terraform-notes
